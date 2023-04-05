@@ -23,4 +23,4 @@
 !.env.SAMPLE
 
 # Folders
-./Data/*
+./data/*
