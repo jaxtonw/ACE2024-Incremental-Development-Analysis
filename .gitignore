@@ -21,3 +21,6 @@
 # Ignore .env file
 .env
 !.env.SAMPLE
+
+# Folders
+./Data/*
