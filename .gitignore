@@ -1,0 +1,23 @@
+# IDE Configuration files/directories
+.vscode
+.idea
+
+# General files to ignore
+*.zip
+.ipynb_checkpoints
+*.swp
+*.pdf
+*.svg
+*.png
+
+# LaTeX side-effect files
+*.aux
+*.log
+*.out
+
+*lecturenotes.ipynb
+*scratch.ipynb
+
+# Ignore .env file
+.env
+!.env.SAMPLE
