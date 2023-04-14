@@ -24,3 +24,7 @@
 
 # Folders
 ./data/*
+
+# Virtual Environments
+venv
+.venv
