@@ -2,3 +2,4 @@ pandas
 seaborn
 scikit-learn
 scipy
+measure-incremental-development
