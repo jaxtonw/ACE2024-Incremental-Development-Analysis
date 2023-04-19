@@ -9,6 +9,7 @@
 *.pdf
 *.svg
 *.png
+*.pyc
 
 # LaTeX side-effect files
 *.aux
