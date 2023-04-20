@@ -1,0 +1,3539 @@
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student1/Assign10/task1.py", line 5, in <module>
+    from modules.wordinator import Wordinator
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student1/Assign13/memory_test.py", line 3, in <module>
+    from modules.memoryboard import MemoryBoard
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student1/Assign13/task1.py", line 1, in <module>
+    from modules.memoryboard import MemoryBoard
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student1/Assign9/task2.py", line 1, in <module>
+    from modules.blobber import Blobber
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student1/Assign9/unit5_task1_starter.py", line 71, in <module>
+    main()
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student1/Assign9/unit5_task1_starter.py", line 40, in main
+    face.draw_face()
+TypeError: Face.draw_face() missing 1 required positional argument: 'self'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student10/Assign11/task1.py", line 5, in <module>
+    from modules.orbian import Orbian
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student10/Assign12/task3.py", line 5, in <module>
+    from modules.deck import Deck
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student12/Assign10/task1.py", line 5, in <module>
+    from modules.wordinator import Wordinator
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student12/Assign10/wordinator.py", line 11
+    def firstWord(self, wordinator1, wordinator2):
+    ^
+IndentationError: expected an indented block after function definition on line 7
+SYNTAX_ERR=1
+INDENT_ERR=0
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student12/Assign12/card.py", line 16
+    turn TITLE.__id  0.000000e+00n(TITLE)]
+                                ^
+SyntaxError: unmatched ']'
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student12/Assign12/task3.py", line 5, in <module>
+    from modules.deck import Deck
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student12/Assign13/gameboard.py", line 7
+    
+IndentationError: expected an indented block after class definition on line 5
+SYNTAX_ERR=1
+INDENT_ERR=0
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student12/Assign13/memorycard.py", line 11
+    def toggleFlipped(self):
+    ^
+IndentationError: expected an indented block after function definition on line 9
+SYNTAX_ERR=1
+INDENT_ERR=0
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student12/Assign13/task1.py", line 5, in <module>
+    from modules.memoryboard import MemoryBoard
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student12/Assign13/test.py", line 7, in <module>
+    from modules.memoryboard import MemoryBoard
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student12/Assign7/chessboard.py", line 69
+    turtle.exitonclick()
+IndentationError: unexpected indent
+SYNTAX_ERR=1
+INDENT_ERR=0
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student12/Assign7/task2.py", line 12, in <module>
+    from chessboard import drawChessboard
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student12/Assign7/chessboard.py", line 69
+    turtle.exitonclick()
+IndentationError: unexpected indent
+SYNTAX_ERR=1
+INDENT_ERR=0
+IMPORT_ERR=1
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student12/Assign9/task1.py", line 22
+    turtle.fillcolor("red)"
+                     ^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student12/Assign9/task2.py", line 69
+    displayName(blobberi
+               ^
+SyntaxError: '(' was never closed
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student12/Assign9/testDraw.py", line 22
+    turtle.pd()
+               ^
+IndentationError: unindent does not match any outer indentation level
+SYNTAX_ERR=1
+INDENT_ERR=0
+IMPORT_ERR=1
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student15/Assign6/scratchWork.py", line 8
+    from random i\
+                ^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student15/Assign6/task2.py", line 18
+    pen
+IndentationError: expected an indented block after 'while' statement on line 15
+SYNTAX_ERR=1
+INDENT_ERR=0
+IMPORT_ERR=1
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student15/Assign7/junk.py", line 11, in <module>
+    rowText += format(str(rowNum), "^" + str((totalWidth/2 - i) + "s"))
+                                             ~~~~~~~~~~~~~~~~~^~~~~~~
+TypeError: unsupported operand type(s) for +: 'float' and 'str'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=2
+EXECUTION_OUTPUT : 
+/home/jaxtonw/.pyenv/versions/3.11.0/bin/python: can't open file '/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student15/Assign7/multiplication': [Errno 2] No such file or directory
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student15/Assign9/task2.py", line 6, in <module>
+    from modules.blobber import Blobber 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student16/Assign10/plan1.py", line 15
+    ********************************
+    ^^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student16/Assign11/task1.py", line 95
+    )    print("Select the second Orbian parent")
+         ^^^^^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student16/Assign13/task1.py", line 5, in <module>
+    from modules.gameboard import GameBoard
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student16/Assign13/task2.py", line 29
+    numPos = binarySearch(numList, key)
+IndentationError: unexpected indent
+SYNTAX_ERR=1
+INDENT_ERR=0
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student16/Assign6/task1.py", line 25
+    firstNum = random.randint(0, i)
+IndentationError: unexpected indent
+SYNTAX_ERR=1
+INDENT_ERR=0
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student16/Assign7/chessboard.py", line 48
+    def drawRectangle(width, heightt:
+                     ^
+SyntaxError: '(' was never closed
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student16/Assign7/task2.py", line 6, in <module>
+    from chessboard import drawChessboard
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student16/Assign7/chessboard.py", line 48
+    def drawRectangle(width, heightt:
+                     ^
+SyntaxError: '(' was never closed
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student16/Assign8/plan1.py", line 1
+    Requirments Specification
+                ^^^^^^^^^^^^^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student16/Assign9/blobber.py", line 39
+    return Blobber.getCurrentVolume / (pi * sel(self)f.__radius ** 2 * self.__height)
+                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student16/Assign9/task2.py", line 5, in <module>
+    from blobber import Blobber
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student16/Assign9/blobber.py", line 39
+    return Blobber.getCurrentVolume / (pi * sel(self)f.__radius ** 2 * self.__height)
+                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student18/Assign10/task1.py", line 5, in <module>
+    from modules.wordinator import Wordinator
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student18/Assign11/task1.py", line 1, in <module>
+    from modules.orbian import Orbian
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student18/Assign12/card.py", line 1, in <module>
+    from modules.gronkyutil import TITLE, GANG
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student18/Assign12/deck.py", line 1, in <module>
+    from modules.gronkyutil import TITLE, GANG
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student18/Assign12/unit6_task3_starter.py", line 1, in <module>
+    from modules.deck import Deck
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student18/Assign13/memory_starter.py", line 4, in <module>
+    from modules.memoryboard import MemoryBoard
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student18/Assign9/task2.py", line 5, in <module>
+    from modules.blobber import Blobber
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student19/Assign10/task1.py", line 7, in <module>
+    from modules.wordinator import Wordinator
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student19/Assign10/wordinator.py", line 66
+    0
+IndentationError: unexpected indent
+SYNTAX_ERR=1
+INDENT_ERR=0
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student19/Assign11/orbian.py", line 6
+    provided in course
+IndentationError: unexpected indent
+SYNTAX_ERR=1
+INDENT_ERR=0
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student19/Assign11/task1.py", line 7, in <module>
+    from modules.orbian import Orbian
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student19/Assign12/task3.py", line 5, in <module>
+    from modules.deck import Deck
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student19/Assign13/memory_starter.py", line 1, in <module>
+    from modules.gameboard import GameBoard as MemoryBoard
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student19/Assign7/assn7-task2-starter.py", line 26, in <module>
+    main()
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student19/Assign7/assn7-task2-starter.py", line 16, in main
+    if width == "" and height == "":
+       ^^^^^
+NameError: name 'width' is not defined
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student19/Assign7/task1.py", line 25
+    ?
+    ^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student19/Assign8/pattern.py", line 54
+    centerX, centerY, offset, width, height, count, rotation, radius = random.randi-400, 401n, random.randint(-400, 401), random.randint(10, 100), random.randint(1, 100), 100, random.randint(1, 200), random.randint(0, 360), random.randint(1, 50)t    if pattern == "":
+                                                                                           ^
+SyntaxError: invalid decimal literal
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student19/Assign8/task1.py", line 12, in <module>
+    import pattern
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student19/Assign8/pattern.py", line 54
+    centerX, centerY, offset, width, height, count, rotation, radius = random.randi-400, 401n, random.randint(-400, 401), random.randint(10, 100), random.randint(1, 100), 100, random.randint(1, 200), random.randint(0, 360), random.randint(1, 50)t    if pattern == "":
+                                                                                           ^
+SyntaxError: invalid decimal literal
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student2/Assign10/task1.py", line 1, in <module>
+    from modules.Wordinator import Wordinator
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student2/Assign11/main.py", line 1
+    f __name__ == '__main__':
+      ^^^^^^^^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student2/Assign11/task1.py", line 71
+    print ("Hello, my name is" )+ famList(0: )
+                                           ^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student2/Assign12/main.py", line 6
+    list1 = <Fill In>
+            ^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student2/Assign6/task1.py", line 16
+    for 
+        ^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student2/Assign6/task2.py", line 23, in <module>
+    results =(seed(1)+seed(2)/6)
+                      ~~~~~~~^~
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student2/Assign7/main.py", line 1
+    __name__ == '__main__':
+IndentationError: unexpected indent
+SYNTAX_ERR=1
+INDENT_ERR=0
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student2/Assign8/main.py", line 1
+    __name__ == '__main__':
+IndentationError: unexpected indent
+SYNTAX_ERR=1
+INDENT_ERR=0
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student2/Assign8/pattern.py", line 17
+    def drawRectangle:
+                     ^
+SyntaxError: expected '('
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student2/Assign8/task1.py", line 66
+    if response == 1:
+IndentationError: unexpected indent
+SYNTAX_ERR=1
+INDENT_ERR=0
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student2/Assign9/main.py", line 23
+    <Fill-In>
+    ^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student2/Assign9/task1.py", line 18
+    <Fill-In>
+    ^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student2/Assign9/task2.py", line 53
+    print("Your Blobber's name is " + <Fill-In>)
+                                      ^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student20/Assign10/Task1.py", line 6, in <module>
+    from modules.wordinator import Wordinator
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student20/Assign10/task3.py", line 6, in <module>
+    from modules.wordinator import Wordinator
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=2
+EXECUTION_OUTPUT : 
+/home/jaxtonw/.pyenv/versions/3.11.0/bin/python: can't open file '/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student20/Assign11/Task': [Errno 2] No such file or directory
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=2
+EXECUTION_OUTPUT : 
+/home/jaxtonw/.pyenv/versions/3.11.0/bin/python: can't open file '/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student20/Assign12/Task': [Errno 2] No such file or directory
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=2
+EXECUTION_OUTPUT : 
+/home/jaxtonw/.pyenv/versions/3.11.0/bin/python: can't open file '/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student20/Assign6/Task': [Errno 2] No such file or directory
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=2
+EXECUTION_OUTPUT : 
+/home/jaxtonw/.pyenv/versions/3.11.0/bin/python: can't open file '/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student20/Assign6/Task': [Errno 2] No such file or directory
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student20/Assign7/Task1.py", line 32
+    )   if i>=10:
+    ^
+SyntaxError: unmatched ')'
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student20/Assign8/task1.py", line 72, in <module>
+    main()
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student20/Assign8/task1.py", line 13, in main
+    pattern.setup()
+    ^^^^^^^
+NameError: name 'pattern' is not defined
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student20/Assign9/blobber.py", line 43
+    self.vitalsOK():
+                   ^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=2
+EXECUTION_OUTPUT : 
+/home/jaxtonw/.pyenv/versions/3.11.0/bin/python: can't open file '/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student20/Assign9/Task': [Errno 2] No such file or directory
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student21/Assign10/task1.py", line 5, in <module>
+    from modules.wordinator import Wordinator
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=2
+EXECUTION_OUTPUT : 
+/home/jaxtonw/.pyenv/versions/3.11.0/bin/python: can't open file '/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student21/Assign10/test': [Errno 2] No such file or directory
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student21/Assign12/practice.py", line 6, in <module>
+    from modules.gronkyutil import TITLE, GANG
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student21/Assign12/task3.py", line 5, in <module>
+    from modules.deck import Deck
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student21/Assign13/memory_test.py", line 66
+    .gamerda(7memoryBoard, 5)
+                             ^
+IndentationError: unindent does not match any outer indentation level
+SYNTAX_ERR=1
+INDENT_ERR=0
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student21/Assign13/task1.py", line 5, in <module>
+    from modules.gameboard import GameBoard
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student21/Assign9/task2.py", line 5, in <module>
+    from modules.blobber import Blobber
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student22/Assign10/task1.py", line 1, in <module>
+    from modules.wordinator import Wordinator
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student22/Assign11/task1.py", line 5, in <module>
+    from modules.orbian import Orbian
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student22/Assign12/task3.py", line 17
+    <Fill-In> # Single line
+    ^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student22/Assign6/task2.py", line 58
+    print("The zooKeeper is right with one elephant but not two )
+          ^
+SyntaxError: unterminated string literal (detected at line 58)
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student22/Assign7/task2.py", line 25
+    eval)
+        ^
+SyntaxError: unmatched ')'
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student22/Assign8/pattern.py", line 42
+    def drawRectanglePattern(centerX, centerY, offset, width=20, height=100th=25, cou)t=    # angle sets up the rotation for each rectangle
+                                                                          ^
+SyntaxError: invalid decimal literal
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student22/Assign8/task1.py", line 4, in <module>
+    import pattern
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student22/Assign8/pattern.py", line 42
+    def drawRectanglePattern(centerX, centerY, offset, width=20, height=100th=25, cou)t=    # angle sets up the rotation for each rectangle
+                                                                          ^
+SyntaxError: invalid decimal literal
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student22/Assign9/task2.py", line 95
+    (
+    ^
+SyntaxError: '(' was never closed
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student23/Assign11/task1.py", line 7, in <module>
+    from modules.orbian import Orbian
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student23/Assign12/task3.py", line 5, in <module>
+    from modules.deck import Deck
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student23/Assign9/task2.py", line 5, in <module>
+    from modules.blobber import Blobber
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student24/Assign10/task1.py", line 5, in <module>
+    from modules.wordinator import Wordinator
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student24/Assign11/task1.py", line 5, in <module>
+    from modules.orbian import Orbian
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student24/Assign12/task3.py", line 5, in <module>
+    from modules.deck import Deck
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student24/Assign13/memory_test.py", line 3, in <module>
+    from modules.gameboard import GameBoard
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student24/Assign13/task1.py", line 5
+    from modules.gameboard impmoryGameBoard
+                           ^^^^^^^^^^^^^^^^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student24/Assign7/task1.py", line 20
+    formattedRowText = format(rowText, formatSt)in
+                                                  ^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student24/Assign9/task2.py", line 5, in <module>
+    from modules.blobber import Blobber
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student26/Assign10/task1.py", line 6, in <module>
+    from modules.wordinator import Wordinator
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student26/Assign10/Task1.py", line 6, in <module>
+    from modules.wordinator import Wordinator
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student26/Assign11/Task1.py", line 131
+    print("Uh oh. Orbian Thanos just snapped his fingers", end=")"
+         ^
+SyntaxError: '(' was never closed
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student26/Assign12/Task3.py", line 6, in <module>
+    from modules.deck import Deck
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student26/Assign13/Task1.py", line 89
+    main()from modules.gameboard import GameBoard
+          ^^^^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student26/Assign7/chessboard.py", line 30
+    if         x >= startX + wid        x = sta   
+                                        ^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student26/Assign7/Task2.py", line 19
+    drastartXwChessboard(, startY, height=eval(height), width=250)
+                         ^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student26/Assign8/pattern.py", line 39
+    turtle.goto(centerX, cente        for i in range(0, int(count )          turtle.circle(int(offset), 360 / int(count))
+                                                    ^
+SyntaxError: '(' was never closed
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student26/Assign8/Task1.py", line 26
+    offset = input("Enter the offset: )"
+                  ^
+SyntaxError: '(' was never closed
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student26/Assign9/Task1.py", line 106
+    self.__darkEyesself.__darkEyes if self.__darkEyesTrueTr= blue":
+                                                                 ^
+SyntaxError: unterminated string literal (detected at line 106)
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student26/Assign9/Task2.py", line 5, in <module>
+    from modules.blobber import Blobber
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student27/Assign10/task1.py", line 5, in <module>
+    from modules.wordinator import Wordinator
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student27/Assign11/task1.py", line 1, in <module>
+    from modules.orbian import Orbian
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student27/Assign11/unit6_task4_starter-1.py", line 1, in <module>
+    from modules.orbian import Orbian
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student27/Assign12/task2.py", line 30
+    bubbleSort(numbers)]maxValue = numbers[-1]
+                       ^
+SyntaxError: unmatched ']'
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student27/Assign13/memory_test.py", line 4, in <module>
+    from modules.memorycard import MemoryCard
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student27/Assign13/task1.py", line 5, in <module>
+    from modules.memoryboard import MemoryBoard
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student27/Assign13/task2.py", line 51
+    if key == numListmid]:
+                        ^
+SyntaxError: unmatched ']'
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student27/Assign13/test.py", line 4, in <module>
+    from modules.memorycard import MemoryCard
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student27/Assign9/task1.py", line 100
+    face = Face()"    face.draw_face()
+                 ^
+SyntaxError: unterminated string literal (detected at line 100)
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student27/Assign9/task2.py", line 5, in <module>
+    from modules.blobber import Blobber
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student28/Assign10/task1.py", line 5, in <module>
+    from modules.wordinator import Wordinator
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student28/Assign11/task1.py", line 5, in <module>
+    from modules.orbian import Orbian
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student28/Assign12/task3.py", line 5, in <module>
+    from modules.deck import Deck
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student28/Assign13/task1.py", line 5, in <module>
+    from modules.memoryboard import MemoryBoard
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student28/Assign6/task1.py", line 32, in <module>
+    count += 1
+    ^^^^^
+NameError: name 'count' is not defined. Did you mean: 'ount'?
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student28/Assign9/task2.py", line 5, in <module>
+    from modules.blobber import Blobber
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student29/Assign10/task1.py", line 5, in <module>
+    from modules.wordinator import Wordinator
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student29/Assign11/task1.py", line 5, in <module>
+    from modules.orbian import Orbian
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student29/Assign12/plan3.py", line 6
+    Software Designs for three functions
+             ^^^^^^^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student29/Assign12/task2.py", line 5
+    ]repeat = True
+    ^
+SyntaxError: unmatched ']'
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student29/Assign12/task3.py", line 5, in <module>
+    from modules.deck import Deck
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=2
+EXECUTION_OUTPUT : 
+/home/jaxtonw/.pyenv/versions/3.11.0/bin/python: can't open file '/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student29/Assign13/memory': [Errno 2] No such file or directory
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=2
+EXECUTION_OUTPUT : 
+/home/jaxtonw/.pyenv/versions/3.11.0/bin/python: can't open file '/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student29/Assign13/messing': [Errno 2] No such file or directory
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=2
+EXECUTION_OUTPUT : 
+/home/jaxtonw/.pyenv/versions/3.11.0/bin/python: can't open file '/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student29/Assign13/messing': [Errno 2] No such file or directory
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student29/Assign13/plan1.txt.py", line 5
+    UMl for MemoryCard Class -------------------------------------------------------
+        ^^^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student29/Assign13/task1.py", line 5, in <module>
+    from modules.memoryboard import MemoryBoard
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=2
+EXECUTION_OUTPUT : 
+/home/jaxtonw/.pyenv/versions/3.11.0/bin/python: can't open file '/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student29/Assign6/messing': [Errno 2] No such file or directory
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student29/Assign8/main.py", line 1
+    he script.
+       ^^^^^^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=2
+EXECUTION_OUTPUT : 
+/home/jaxtonw/.pyenv/versions/3.11.0/bin/python: can't open file '/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student29/Assign8/messing': [Errno 2] No such file or directory
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=2
+EXECUTION_OUTPUT : 
+/home/jaxtonw/.pyenv/versions/3.11.0/bin/python: can't open file '/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student29/Assign8/messing': [Errno 2] No such file or directory
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student3/Assign10/task1.py", line 5, in <module>
+    from modules.wordinator import Wordinator
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student3/Assign11/task1.py", line 6, in <module>
+    from modules.orbian import Orbian
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student3/Assign12/task3.py", line 5, in <module>
+    from modules.deck import Deck
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student3/Assign13/task1.py", line 5, in <module>
+    from modules.memoryboard import MemoryBoard
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student3/Assign13/test.py", line 7, in <module>
+    from modules.memoryboard import MemoryBoard
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student3/Assign6/task1.py", line 35
+    print("Total Loops: " + str(loop)))
+                                      ^
+SyntaxError: unmatched ')'
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student3/Assign9/blobber.py", line 21
+    def getName(self):
+    ^
+IndentationError: expected an indented block after function definition on line 17
+SYNTAX_ERR=1
+INDENT_ERR=0
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student3/Assign9/task2.py", line 5, in <module>
+    from modules.blobber import Blobber
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student30/Assign10/task1.py", line 5, in <module>
+    from modules.wordinator import Wordinator
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student30/Assign11/task1.py", line 6, in <module>
+    from modules.orbian import Orbian
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student30/Assign12/task3.py", line 5, in <module>
+    from modules.deck import Deck
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student30/Assign13/junk.py", line 16
+    print(aggienacci(9)))
+                        ^
+SyntaxError: unmatched ')'
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student30/Assign8/pattern.py", line 75
+    urtle.pendown()
+                   ^
+IndentationError: unindent does not match any outer indentation level
+SYNTAX_ERR=1
+INDENT_ERR=0
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student30/Assign8/task1.py", line 7, in <module>
+    import pattern
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student30/Assign8/pattern.py", line 75
+    urtle.pendown()
+                   ^
+IndentationError: unindent does not match any outer indentation level
+SYNTAX_ERR=1
+INDENT_ERR=0
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student30/Assign8/Task1.py", line 7, in <module>
+    import pattern
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student30/Assign8/pattern.py", line 75
+    urtle.pendown()
+                   ^
+IndentationError: unindent does not match any outer indentation level
+SYNTAX_ERR=1
+INDENT_ERR=0
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student30/Assign9/task2.py", line 5, in <module>
+    from Modules.blobber import Blobber
+ModuleNotFoundError: No module named 'Modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student31/Assign7/drawChessboard.py", line 5
+    def drawChessboard():
+IndentationError: expected an indented block after function definition on line 5
+SYNTAX_ERR=1
+INDENT_ERR=0
+IMPORT_ERR=1
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student32/Assign10/task1.py", line 5, in <module>
+    from modules.wordinator import Wordinator
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student32/Assign11/task1.py", line 6, in <module>
+    from modules.orbian import Orbian
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student32/Assign12/task2.py", line 10
+    if 
+       ^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student32/Assign12/task3.py", line 5, in <module>
+    from modules.deck import Deck
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student32/Assign9/blobber.py", line 19
+    def getColor(self):
+    ^
+IndentationError: expected an indented block after function definition on line 16
+SYNTAX_ERR=1
+INDENT_ERR=0
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student32/Assign9/task2.py", line 5, in <module>
+    from modules.blobber import Blobber
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student33/Assign10/task1.py", line 5, in <module>
+    from modules.wordinator import Wordinator
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student33/Assign11/task1.py", line 1, in <module>
+    from modules.orbian import Orbian
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student33/Assign12/task3.py", line 34
+    done:
+         ^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student33/Assign7/task2.py", line 6, in <module>
+    from modules.chessboard import drawChessboard
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student33/Assign8/task1.py", line 6, in <module>
+    from modules import pattern
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student33/Assign9/task1.py", line 108
+    self.__darkEyes = not self.__darkEyes"        self.draw_face()
+                                         ^
+SyntaxError: unterminated string literal (detected at line 108)
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student33/Assign9/task2.py", line 84
+    print(blobber.blobberSpeak(")
+                               ^
+SyntaxError: unterminated string literal (detected at line 84)
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student34/Assign10/task1.py", line 5, in <module>
+    from modules.wordinator import Wordinator
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student34/Assign11/task1.py", line 5, in <module>
+    from modules.orbian import Orbian
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student34/Assign12/task3.py", line 5, in <module>
+    from modules.deck import Deck
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student34/Assign7/chessboard.py", line 51
+    drawRectangle(rectangleWidth, rectangleHeight)
+IndentationError: unexpected indent
+SYNTAX_ERR=1
+INDENT_ERR=0
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student34/Assign7/task2.py", line 8, in <module>
+    from chessboard import drawChessboard
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student34/Assign7/chessboard.py", line 51
+    drawRectangle(rectangleWidth, rectangleHeight)
+IndentationError: unexpected indent
+SYNTAX_ERR=1
+INDENT_ERR=0
+IMPORT_ERR=1
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student34/Assign9/task2.py", line 6, in <module>
+    from modules.blobber import Blobber
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student36/Assign10/task1.py", line 6, in <module>
+    from modules.wordinator import Wordinator
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student36/Assign11/task1.py", line 6, in <module>
+    from modules.orbian import Orbian
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student36/Assign12/card.py", line 12
+    return TITLE[<Fill-In>] # Do not use a numeric literal
+                 ^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student36/Assign12/deck.py", line 15
+    totalCards = <Fill-In> # Do not use a numeric literal
+                 ^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student36/Assign12/task3.py", line 21
+    <Fill-In> # Single line
+    ^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student36/Assign13/task1.py", line 6, in <module>
+    from modules.memoryboard import MemoryBoard
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student36/Assign9/blobber.py", line 26
+    def blobberSpeak(myBlobber):
+    ^
+IndentationError: expected an indented block after function definition on line 24
+SYNTAX_ERR=1
+INDENT_ERR=0
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student36/Assign9/task2.py", line 6, in <module>
+    from modules.blobber import Blobber
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student37/Assign6/task1.py", line 17
+    while count <= 359:10000:
+                            ^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student37/Assign8/pattern.py", line 88
+    theading(360 /  num * i)
+IndentationError: unexpected indent
+SYNTAX_ERR=1
+INDENT_ERR=0
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student37/Assign8/task1.py", line 6, in <module>
+    import pattern
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student37/Assign8/pattern.py", line 88
+    theading(360 /  num * i)
+IndentationError: unexpected indent
+SYNTAX_ERR=1
+INDENT_ERR=0
+IMPORT_ERR=1
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student38/Assign10/task1.py", line 5, in <module>
+    from modules.wordinator import Wordinator
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student38/Assign11/task1.py", line 4, in <module>
+    from modules.orbian import Orbian
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student38/Assign13/memory_starter.py", line 4, in <module>
+    from modules.memoryboard import MemoryBoard
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student38/Assign13/memory_test.py", line 7, in <module>
+    from modules.memoryboard import MemoryBoard
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student38/Assign6/task1.py", line 17
+    ))
+    ^
+SyntaxError: unmatched ')'
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student38/Assign9/task2.py", line 4, in <module>
+    from modules.blobber import Blobber
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student39/Assign10/junk.py", line 1
+    def midWord(midWordLength):)    
+                               ^
+SyntaxError: unmatched ')'
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student39/Assign10/task1.py", line 1, in <module>
+    from modules.wordinator import Wordinator
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student39/Assign10/Task1.py", line 72
+    main()from modules.wordinator import Wordinator
+          ^^^^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student39/Assign11/task1.py", line 1, in <module>
+    from modules.orbian import Orbian
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student39/Assign12/task3.py", line 1, in <module>
+    from modules.deck import Deck
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student39/Assign13/task1.py", line 1, in <module>
+    from modules.memoryboard import MemoryBoard
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student39/Assign13/test.py", line 1, in <module>
+    from modules.memoryboard import MemoryBoard
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student39/Assign6/Task1.py", line 8
+    for flukyNumber in range(1, number // 2 + 1):l        iteration += 1
+                                                          ^^^^^^^^^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student39/Assign6/Task2.py", line 22
+./checkSubmissions.sh: line 47: printf: `p': invalid format character
+    print("The zookeeper found an elephant in a stall 0.00" ./checkSubmissions.sh: line 56: printf: `p': invalid format character
+./checkSubmissions.sh: line 58: printf: `p': invalid format character
+./checkSubmissions.sh: line 60: printf: `p': invalid format character
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student39/Assign7/task1.py", line 12
+    currentSpaces = pyramid * len(str(pyiamidr) + pyramid - 1
+                                 ^
+SyntaxError: '(' was never closed
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student39/Assign7/Task1.py", line 10
+    def rows(numberOfRows):
+IndentationError: unexpected indent
+SYNTAX_ERR=1
+INDENT_ERR=0
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student39/Assign9/Blobber.py", line 5
+    
+IndentationError: expected an indented block after function definition on line 4
+SYNTAX_ERR=1
+INDENT_ERR=0
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student39/Assign9/task2.py", line 1, in <module>
+    from modules.blobber import Blobber
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student39/Assign9/Task2.py", line 54
+    fill in
+           ^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student4/Assign6/task2.py", line 87
+    )
+    ^
+SyntaxError: unmatched ')'
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student40/Assign10/task1.py", line 6, in <module>
+    from modules.wordinator import Wordinator
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student40/Assign11/task1.py", line 6, in <module>
+    from modules.orbian import Orbian
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student40/Assign12/task3.py", line 5, in <module>
+    from modules.deck import Deck
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student40/Assign7/chessboard.py", line 15
+    rectangleHeight = height /     
+                                   ^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student40/Assign7/task2.py", line 7, in <module>
+    from chessboard import drawChessboard
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student40/Assign7/chessboard.py", line 15
+    rectangleHeight = height /     
+                                   ^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student40/Assign8/task1.py", line 78
+    raw the circle pattern
+        ^^^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student40/Assign9/task1.py", line 37
+    turtle.fillcolor("black)"
+                    ^
+SyntaxError: '(' was never closed
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student40/Assign9/task2.py", line 5, in <module>
+    from modules.blobber import Blobber
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student42/Assign10/task1.py", line 5, in <module>
+    from modules.wordinator import Wordinator
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student42/Assign11/task1.py", line 4, in <module>
+    from modules.orbian import Orbian
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student42/Assign12/task3.py", line 4, in <module>
+    from modules.deck import Deck
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student42/Assign13/task1.py", line 4, in <module>
+    from modules.gameboard import GameBoard
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student42/Assign13/test.py", line 5, in <module>
+    from modules.gameboard import GameBoard
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student43/Assign10/task1.py", line 5, in <module>
+    from modules.wordinator import Wordinator
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student43/Assign11/task1.py", line 5, in <module>
+    from modules.orbian import Orbian
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student43/Assign12/task3.py", line 41
+    <Fill-In> # Single line
+    ^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student43/Assign13/memory_test.py", line 7, in <module>
+    from modules.memorycard import MemoryCard
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student43/Assign13/task1.py", line 5, in <module>
+    from modules.memoryboard import MemoryBoard
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student43/Assign7/task1.py", line 49
+    
+IndentationError: expected an indented block after 'for' statement on line 46
+SYNTAX_ERR=1
+INDENT_ERR=0
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student43/Assign9/task2.py", line 6, in <module>
+    from modules.blobber import Blobber
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student43/Assign9/test.py", line 5, in <module>
+    from modules.blobber import Blobber
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student44/Assign11/task1.py", line 1, in <module>
+    from modules.orbian import Orbian
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student5/Assign12/task3.py", line 1
+    Single line
+           ^^^^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student5/Assign13/task1.py", line 5, in <module>
+    from modules.memoryboard import MemoryBoard
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student6/Assign10/task1.py", line 6, in <module>
+    from wordinator import Wordinator
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student6/Assign10/wordinator.py", line 31
+    mi__truediv__elf):, other):       s = ""
+                    ^
+SyntaxError: unmatched ')'
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student6/Assign10/wordinator.py", line 31
+    mi__truediv__elf):, other):       s = ""
+                    ^
+SyntaxError: unmatched ')'
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student6/Assign12/task3.py", line 57
+    <Fill-In> # Not a single line. The entire function body
+    ^
+IndentationError: expected an indented block after 'for' statement on line 55
+SYNTAX_ERR=1
+INDENT_ERR=0
+IMPORT_ERR=1
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student6/Assign13/memoryboard.py", line 5
+    def MemoryBoard: 
+                   ^
+SyntaxError: expected '('
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student6/Assign13/memorytest.py", line 64
+    main()    print(memoryBoard.getBoard())
+              ^^^^^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student6/Assign13/task1.py", line 5, in <module>
+    from memoryboard import MemoryBoard
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student6/Assign13/memoryboard.py", line 5
+    def MemoryBoard: 
+                   ^
+SyntaxError: expected '('
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student6/Assign6/task1.py", line 9, in <module>
+    num1 = randint()
+           ^^^^^^^^^
+TypeError: Random.randint() missing 2 required positional arguments: 'a' and 'b'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student6/Assign8/starter.py", line 71, in <module>
+    main()
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student6/Assign8/starter.py", line 15, in main
+    pattern.setup()
+    ^^^^^^^
+NameError: name 'pattern' is not defined
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student7/Assign10/task1.py", line 5, in <module>
+    from modules.wordinator import Wordinator
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student7/Assign11/task1.py", line 1, in <module>
+    from modules.orbian import Orbian
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student7/Assign12/task3.py", line 1, in <module>
+    from modules.deck import Deck
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student7/Assign13/memory_starter.py", line 1, in <module>
+    from modules.gameboard import GameBoard
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student7/Assign13/memory_test.py", line 3
+    from modules.gamebomed import GameMemoryBoom modules.memorycard import MemoryCard
+                                                 ^^^^^^^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student7/Assign6/task1.py", line 25
+    if num  0 vi== 0:
+               ^^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student7/Assign7/task1.py", line 23
+    pyramid += format(row, "^" + str(rowLengtho) + "
+"
+                     ^
+SyntaxError: '(' was never closed
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student7/Assign9/task2.py", line 5, in <module>
+    from modules.blobber import Blobber
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student8/Assign10/task1.py", line 5, in <module>
+    from modules.wordinator import Wordinator
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student8/Assign11/task1.py", line 5, in <module>
+    from modules.orbian import Orbian
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student8/Assign12/junk.py", line 5, in <module>
+    from modules.card import Card
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student8/Assign12/task3.py", line 5, in <module>
+    from modules.deck import Deck
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student8/Assign9/task2.py", line 5, in <module>
+    from modules.blobber import Blobber
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student9/Assign10/task1.py", line 5, in <module>
+    from modules.wordinator import Wordinator
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student9/Assign11/task1.py", line 5, in <module>
+    from modules.orbian import Orbian
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student9/Assign12/task3.py", line 65
+    rrMin - sortCntInde>ent:
+                            ^
+IndentationError: unindent does not match any outer indentation level
+SYNTAX_ERR=1
+INDENT_ERR=0
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student9/Assign13/task1.py", line 5, in <module>
+    from modules.memoryboard import MemoryBoard
+ModuleNotFoundError: No module named 'modules'
+SYNTAX_ERR=1
+INDENT_ERR=1
+IMPORT_ERR=0
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student9/Assign13/task2.py", line 20
+    return binarySearchRecursive(num, key, low, high)w
+                                                     ^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student9/Assign6/task1.py", line 4
+    from math importomqrt
+              ^^^^^^^^^^^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student9/Assign7/task2.py", line 87
+    drawAllRectangles(startX,startY,width,height)r.done()
+                                                 ^
+SyntaxError: invalid syntax
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student9/Assign8/pattern.py", line 54
+    setRandomColor(color)
+    ^
+IndentationError: expected an indented block after function definition on line 53
+SYNTAX_ERR=1
+INDENT_ERR=0
+IMPORT_ERR=1
+SUCCESS=1
+EXECUTION_OUTPUT : 
+Traceback (most recent call last):
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student9/Assign8/task1.py", line 6, in <module>
+    import pattern
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student9/Assign8/pattern.py", line 54
+    setRandomColor(color)
+    ^
+IndentationError: expected an indented block after function definition on line 53
+SYNTAX_ERR=1
+INDENT_ERR=0
+IMPORT_ERR=1
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
+SUCCESS=1
+EXECUTION_OUTPUT : 
+  File "/home/jaxtonw/Documents/USU/Sp23/6830/final-project/reconstructed_submissions/Student9/Assign9/task1.py", line 68
+    while not done:happy  if<happy == False else Fangryn>Change My Face")black  ifsdark == False else mblue= True else n" if Face.__smile == True angr "sifmhappy == True else ihapp        emotion = "angry"if_eyes == True else _ha= T<Fill-In>
+                                                                                                                                                                                                            ^
+SyntaxError: unterminated string literal (detected at line 68)
+SYNTAX_ERR=0
+INDENT_ERR=1
+IMPORT_ERR=1
+SUCCESS=124
+EXECUTION_OUTPUT : 
+
+SUCCESS=0
+EXECUTION_OUTPUT : 
+
