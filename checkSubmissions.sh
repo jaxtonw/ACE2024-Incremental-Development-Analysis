@@ -41,23 +41,28 @@ for STUDENT in $SUBMISSIONS_DIRECTORY/*; do
             FILE_ID=${FILE/#$ASSIGN\/}
             
             FILE_EXECUTION_STATE=
-            printf "Executing: $STUDENT_ID,$ASSIGN_ID,$FILE_ID\n"
-            STUDENT_EXECUTION_OUTPUT=$(timeout 10 $PYTHON_CMD $FILE 2>&1 > /dev/null)
+            STUDENT_EXECUTION_OUTPUT=$(timeout 1.5 $PYTHON_CMD $FILE 2>&1 > /dev/null)
             SUCCESS=$?
 
-            [[ -n $DEBUG ]] && echo "SUCCESS=$SUCCESS" && printf "EXECUTION_OUTPUT : \n$STUDENT_EXECUTION_OUTPUT\n"
+            [[ -n $DEBUG ]] && echo "SUCCESS=$SUCCESS" >&2 && printf "EXECUTION_OUTPUT : \n$STUDENT_EXECUTION_OUTPUT\n" >&2
 
             # If the file executes and returns 0
             if [[ $SUCCESS == 0 ]]; then
                 FILE_EXECUTION_STATE=$SUCCESS_CODE
+            elif [[ $SUCCESS == 124 ]]; then
+                # Success == 124 indicates that the timeout program quit the program
+                FILE_EXECUTION_STATE=$SUCCESS_CODE
             else
-                SYNTAX_ERR=$(printf "$STUDENT_EXECUTION_OUTPUT" | grep -qE '^SyntaxError') 
-                INDENT_ERR=$(printf "$STUDENT_EXECUTION_OUTPUT" | grep -qE '^IndentationError') 
-                IMPORT_ERR=$(printf "$STUDENT_EXECUTION_OUTPUT" | grep -qE '^ModuleNotFoundError')
+                printf "$STUDENT_EXECUTION_OUTPUT\n" | grep -qE '^SyntaxError'
+                SYNTAX_ERR=$?
+                printf "$STUDENT_EXECUTION_OUTPUT\n" | grep -qE '^IndentationError'
+                INDENT_ERR=$?
+                printf "$STUDENT_EXECUTION_OUTPUT\n" | grep -qE '^ModuleNotFoundError'
+                IMPORT_ERR=$?
 
-                [[ -n $DEBUG ]] && echo "SYNTAX_ERR=$SYNTAX_ERR"
-                [[ -n $DEBUG ]] && echo "INDENT_ERR=$INDENT_ERR"
-                [[ -n $DEBUG ]] && echo "IMPORT_ERR=$IMPORT_ERR"
+                [[ -n $DEBUG ]] && echo "SYNTAX_ERR=$SYNTAX_ERR" >&2
+                [[ -n $DEBUG ]] && echo "INDENT_ERR=$INDENT_ERR" >&2
+                [[ -n $DEBUG ]] && echo "IMPORT_ERR=$IMPORT_ERR" >&2
 
                 if [[ $SYNTAX_ERR == 0 || $INDENT_ERR == 0 ]]; then
                     FILE_EXECUTION_STATE=$INDENT_OR_SYNTAX_CODE
