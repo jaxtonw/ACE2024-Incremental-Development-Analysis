@@ -5,4 +5,5 @@
 !reconstructionFiltering*.csv
 !reconstructionRunnability*.csv
 !reconstructionRunnability_DEBUG.txt
-!timeDifference.csv
+!timeBetweenRuns.csv
+!codingSessions.csv
