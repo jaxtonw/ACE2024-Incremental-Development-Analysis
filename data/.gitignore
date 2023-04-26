@@ -2,7 +2,7 @@
 !README.md
 !.gitignore
 !mid_scores.csv
-!reconstructionFiltering*.csv
+!reconstructionFailures*.csv
 !reconstructionRunnability*.csv
 !reconstructionRunnability_DEBUG.txt
 !timeBetweenRuns.csv

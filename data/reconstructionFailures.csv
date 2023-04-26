@@ -1,4 +1,4 @@
-,Student,Assignment,FileName,ExecutionState
+,Student,Assignment,FileName,ReconstructionFailure
 0,Student1,Assign10,task1.py,0
 1,Student1,Assign10,wordinator.py,0
 2,Student1,Assign12,task1.py,0
@@ -16,7 +16,7 @@
 14,Student1,Assign8,task1.py,0
 15,Student1,Assign9,task1.py,0
 16,Student1,Assign9,task2.py,0
-17,Student1,Assign9,unit5_task1_starter.py,3
+17,Student1,Assign9,unit5_task1_starter.py,0
 18,Student10,Assign10,task1.py,0
 19,Student10,Assign10,wordinator.py,0
 20,Student10,Assign11,task1.py,0
@@ -39,14 +39,14 @@
 37,Student11,Assign6,Task_1.py,0
 38,Student11,Assign6,Task_2.py,0
 39,Student12,Assign10,task1.py,0
-40,Student12,Assign10,wordinator.py,1
-41,Student12,Assign12,card.py,1
+40,Student12,Assign10,wordinator.py,0
+41,Student12,Assign12,card.py,0
 42,Student12,Assign12,task1.py,0
 43,Student12,Assign12,task2.py,0
 44,Student12,Assign12,task3.py,0
 45,Student12,Assign12,test.py,0
-46,Student12,Assign13,gameboard.py,1
-47,Student12,Assign13,memorycard.py,1
+46,Student12,Assign13,gameboard.py,0
+47,Student12,Assign13,memorycard.py,0
 48,Student12,Assign13,task1.py,0
 49,Student12,Assign13,task2.py,0
 50,Student12,Assign13,test.py,0
@@ -54,7 +54,7 @@
 52,Student12,Assign6,task2.py,0
 53,Student12,Assign7,chessboard.py,1
 54,Student12,Assign7,task1.py,0
-55,Student12,Assign7,task2.py,1
+55,Student12,Assign7,task2.py,0
 56,Student12,Assign9,blobber.py,0
 57,Student12,Assign9,task1.py,1
 58,Student12,Assign9,task2.py,1
@@ -67,14 +67,14 @@
 65,Student15,Assign6,task1.py,0
 66,Student15,Assign6,task2.py,1
 67,Student15,Assign7,chessboard.py,0
-68,Student15,Assign7,junk.py,3
-69,Student15,Assign7,multiplication table.py,3
+68,Student15,Assign7,junk.py,0
+69,Student15,Assign7,multiplication table.py,0
 70,Student15,Assign7,task2.py,0
 71,Student15,Assign8,pattern.py,0
 72,Student15,Assign8,task1.py,0
 73,Student15,Assign9,task1.py,0
 74,Student15,Assign9,task2.py,0
-75,Student16,Assign10,plan1.py,1
+75,Student16,Assign10,plan1.py,0
 76,Student16,Assign10,task1.py,0
 77,Student16,Assign10,wordinator.py,0
 78,Student16,Assign11,orbian.py,0
@@ -89,14 +89,14 @@
 87,Student16,Assign13,task2.py,1
 88,Student16,Assign6,task1.py,1
 89,Student16,Assign6,task2.py,0
-90,Student16,Assign7,chessboard.py,1
+90,Student16,Assign7,chessboard.py,0
 91,Student16,Assign7,task1.py,0
-92,Student16,Assign7,task2.py,1
+92,Student16,Assign7,task2.py,0
 93,Student16,Assign8,pattern.py,0
-94,Student16,Assign8,plan1.py,1
+94,Student16,Assign8,plan1.py,0
 95,Student16,Assign9,blobber.py,1
 96,Student16,Assign9,task1.py,0
-97,Student16,Assign9,task2.py,1
+97,Student16,Assign9,task2.py,0
 98,Student17,Assign6,task1.py,0
 99,Student17,Assign7,chessboard.py,0
 100,Student17,Assign7,task1.py,0
@@ -134,48 +134,48 @@
 132,Student19,Assign6,Task1.py,0
 133,Student19,Assign6,task2.py,0
 134,Student19,Assign6,Task2.py,0
-135,Student19,Assign7,assn7-task2-starter.py,3
+135,Student19,Assign7,assn7-task2-starter.py,0
 136,Student19,Assign7,chessboard.py,0
-137,Student19,Assign7,task1.py,1
+137,Student19,Assign7,task1.py,0
 138,Student19,Assign7,task2.py,0
 139,Student19,Assign8,pattern.py,1
-140,Student19,Assign8,task1.py,1
+140,Student19,Assign8,task1.py,0
 141,Student2,Assign10,task1.py,0
-142,Student2,Assign11,main.py,1
-143,Student2,Assign11,task1.py,1
-144,Student2,Assign12,main.py,1
+142,Student2,Assign11,main.py,0
+143,Student2,Assign11,task1.py,0
+144,Student2,Assign12,main.py,0
 145,Student2,Assign12,task1.py,0
-146,Student2,Assign6,task1.py,1
-147,Student2,Assign6,task2.py,3
+146,Student2,Assign6,task1.py,0
+147,Student2,Assign6,task2.py,0
 148,Student2,Assign7,Chessboard.py,0
-149,Student2,Assign7,main.py,1
+149,Student2,Assign7,main.py,0
 150,Student2,Assign7,task1.py,0
 151,Student2,Assign7,task2.py,0
-152,Student2,Assign8,main.py,1
-153,Student2,Assign8,pattern.py,1
-154,Student2,Assign8,task1.py,1
-155,Student2,Assign9,main.py,1
-156,Student2,Assign9,task1.py,1
-157,Student2,Assign9,task2.py,1
+152,Student2,Assign8,main.py,0
+153,Student2,Assign8,pattern.py,0
+154,Student2,Assign8,task1.py,0
+155,Student2,Assign9,main.py,0
+156,Student2,Assign9,task1.py,0
+157,Student2,Assign9,task2.py,0
 158,Student20,Assign10,Task1.py,0
 159,Student20,Assign10,task3.py,0
-160,Student20,Assign11,Task 1.py,3
-161,Student20,Assign12,Task 1.py,3
-162,Student20,Assign6,Task 1.py,3
-163,Student20,Assign6,Task 2.py,3
+160,Student20,Assign11,Task 1.py,0
+161,Student20,Assign12,Task 1.py,0
+162,Student20,Assign6,Task 1.py,0
+163,Student20,Assign6,Task 2.py,0
 164,Student20,Assign7,chessboard.py,0
 165,Student20,Assign7,task1.py,0
 166,Student20,Assign7,Task1.py,1
 167,Student20,Assign7,Task2.py,0
 168,Student20,Assign8,pattern.py,0
-169,Student20,Assign8,task1.py,3
+169,Student20,Assign8,task1.py,0
 170,Student20,Assign8,Task1.py,0
 171,Student20,Assign8,test.py,0
-172,Student20,Assign9,blobber.py,1
+172,Student20,Assign9,blobber.py,0
 173,Student20,Assign9,Task1.py,0
-174,Student20,Assign9,Task 2.py,3
+174,Student20,Assign9,Task 2.py,0
 175,Student21,Assign10,task1.py,0
-176,Student21,Assign10,test it out.py,3
+176,Student21,Assign10,test it out.py,0
 177,Student21,Assign12,practice.py,0
 178,Student21,Assign12,task1.py,0
 179,Student21,Assign12,task2.py,0
@@ -197,17 +197,17 @@
 195,Student22,Assign11,task1.py,0
 196,Student22,Assign12,task1.py,0
 197,Student22,Assign12,task2.py,0
-198,Student22,Assign12,task3.py,1
+198,Student22,Assign12,task3.py,0
 199,Student22,Assign6,task1.py,0
-200,Student22,Assign6,task2.py,1
+200,Student22,Assign6,task2.py,0
 201,Student22,Assign7,chessboard.py,0
 202,Student22,Assign7,task1.py,0
 203,Student22,Assign7,task2.py,1
 204,Student22,Assign8,pattern.py,1
-205,Student22,Assign8,task1.py,1
+205,Student22,Assign8,task1.py,0
 206,Student22,Assign9,blobber.py,0
 207,Student22,Assign9,task1.py,0
-208,Student22,Assign9,task2.py,1
+208,Student22,Assign9,task2.py,0
 209,Student23,Assign11,task1.py,0
 210,Student23,Assign12,task1.py,0
 211,Student23,Assign12,task2.py,0
@@ -284,7 +284,7 @@
 282,Student28,Assign12,task3.py,0
 283,Student28,Assign13,task1.py,0
 284,Student28,Assign13,task2.py,0
-285,Student28,Assign6,task1.py,3
+285,Student28,Assign6,task1.py,0
 286,Student28,Assign6,task2.py,0
 287,Student28,Assign7,chessboard.py,0
 288,Student28,Assign7,task1.py,0
@@ -295,23 +295,23 @@
 293,Student28,Assign9,task2.py,0
 294,Student29,Assign10,task1.py,0
 295,Student29,Assign11,task1.py,0
-296,Student29,Assign12,plan3.py,1
+296,Student29,Assign12,plan3.py,0
 297,Student29,Assign12,task1.py,0
 298,Student29,Assign12,task2.py,1
 299,Student29,Assign12,task3.py,0
 300,Student29,Assign13,main.py,0
-301,Student29,Assign13,memory test.py,3
-302,Student29,Assign13,messing around.py,3
-303,Student29,Assign13,messing round.py,3
-304,Student29,Assign13,plan1.txt.py,1
+301,Student29,Assign13,memory test.py,0
+302,Student29,Assign13,messing around.py,0
+303,Student29,Assign13,messing round.py,0
+304,Student29,Assign13,plan1.txt.py,0
 305,Student29,Assign13,task1.py,0
 306,Student29,Assign13,task2.py,0
-307,Student29,Assign6,messing round.py,3
+307,Student29,Assign6,messing round.py,0
 308,Student29,Assign6,Task1.py,0
 309,Student29,Assign6,Task2.py,0
-310,Student29,Assign8,main.py,1
-311,Student29,Assign8,messing round 2.py,3
-312,Student29,Assign8,messing round.py,3
+310,Student29,Assign8,main.py,0
+311,Student29,Assign8,messing round 2.py,0
+312,Student29,Assign8,messing round.py,0
 313,Student29,Assign8,pattern.py,0
 314,Student29,Assign8,task1.py,0
 315,Student29,Assign8,Task1.py,0
@@ -323,14 +323,14 @@
 321,Student3,Assign13,task1.py,0
 322,Student3,Assign13,task2.py,0
 323,Student3,Assign13,test.py,0
-324,Student3,Assign6,task1.py,1
+324,Student3,Assign6,task1.py,0
 325,Student3,Assign6,task2.py,0
 326,Student3,Assign7,chessboard.py,0
 327,Student3,Assign7,task1.py,0
 328,Student3,Assign7,task2.py,0
 329,Student3,Assign8,pattern.py,0
 330,Student3,Assign8,task1.py,0
-331,Student3,Assign9,blobber.py,1
+331,Student3,Assign9,blobber.py,0
 332,Student3,Assign9,task1.py,0
 333,Student3,Assign9,task2.py,0
 334,Student30,Assign10,junk.py,0
@@ -349,15 +349,15 @@
 347,Student30,Assign7,Task1.py,0
 348,Student30,Assign7,task2.py,0
 349,Student30,Assign8,pattern.py,1
-350,Student30,Assign8,task1.py,1
-351,Student30,Assign8,Task1.py,1
+350,Student30,Assign8,task1.py,0
+351,Student30,Assign8,Task1.py,0
 352,Student30,Assign9,task1.py,0
 353,Student30,Assign9,Task1.py,0
 354,Student30,Assign9,task2.py,0
 355,Student31,Assign6,task1.py,0
 356,Student31,Assign6,task2.py,0
 357,Student31,Assign7,chessboard.py,0
-358,Student31,Assign7,drawChessboard.py,1
+358,Student31,Assign7,drawChessboard.py,0
 359,Student31,Assign7,main.py,0
 360,Student31,Assign7,tak1.py,0
 361,Student31,Assign7,task2.py,0
@@ -365,7 +365,7 @@
 363,Student32,Assign11,orbian.py,0
 364,Student32,Assign11,task1.py,0
 365,Student32,Assign12,task1.py,0
-366,Student32,Assign12,task2.py,1
+366,Student32,Assign12,task2.py,0
 367,Student32,Assign12,task3.py,0
 368,Student32,Assign6,task1.py,0
 369,Student32,Assign6,task2.py,0
@@ -374,7 +374,7 @@
 372,Student32,Assign7,task2.py,0
 373,Student32,Assign8,pattern.py,0
 374,Student32,Assign8,task1.py,0
-375,Student32,Assign9,blobber.py,1
+375,Student32,Assign9,blobber.py,0
 376,Student32,Assign9,task1.py,0
 377,Student32,Assign9,task2.py,0
 378,Student33,Assign10,task1.py,0
@@ -401,7 +401,7 @@
 399,Student34,Assign6,task2.py,0
 400,Student34,Assign7,chessboard.py,1
 401,Student34,Assign7,task1.py,0
-402,Student34,Assign7,task2.py,1
+402,Student34,Assign7,task2.py,0
 403,Student34,Assign8,pattern.py,0
 404,Student34,Assign8,task1.py,0
 405,Student34,Assign9,task1.py,0
@@ -412,12 +412,12 @@
 410,Student36,Assign10,task1.py,0
 411,Student36,Assign11,orbian.py,0
 412,Student36,Assign11,task1.py,0
-413,Student36,Assign12,card.py,1
-414,Student36,Assign12,deck.py,1
+413,Student36,Assign12,card.py,0
+414,Student36,Assign12,deck.py,0
 415,Student36,Assign12,gronkyutil.py,0
 416,Student36,Assign12,task1.py,0
 417,Student36,Assign12,task2.py,0
-418,Student36,Assign12,task3.py,1
+418,Student36,Assign12,task3.py,0
 419,Student36,Assign13,gameboard.py,0
 420,Student36,Assign13,memorycard.py,0
 421,Student36,Assign13,task1.py,0
@@ -430,7 +430,7 @@
 428,Student36,Assign7,task2.py,0
 429,Student36,Assign8,pattern.py,0
 430,Student36,Assign8,task1.py,0
-431,Student36,Assign9,blobber.py,1
+431,Student36,Assign9,blobber.py,0
 432,Student36,Assign9,task1.py,0
 433,Student36,Assign9,task2.py,0
 434,Student37,Assign10,task1.py,0
@@ -442,7 +442,7 @@
 440,Student37,Assign7,task1.py,0
 441,Student37,Assign7,task2.py,0
 442,Student37,Assign8,pattern.py,1
-443,Student37,Assign8,task1.py,1
+443,Student37,Assign8,task1.py,0
 444,Student37,Assign9,blobber.py,0
 445,Student37,Assign9,task1.py,0
 446,Student37,Assign9,task2.py,0
@@ -476,7 +476,7 @@
 474,Student39,Assign6,task1.py,0
 475,Student39,Assign6,Task1.py,1
 476,Student39,Assign6,task2.py,0
-477,Student39,Assign6,Task2.py,3
+477,Student39,Assign6,Task2.py,0
 478,Student39,Assign7,chessboard.py,0
 479,Student39,Assign7,task1.py,1
 480,Student39,Assign7,Task1.py,1
@@ -485,11 +485,11 @@
 483,Student39,Assign8,task1.py,0
 484,Student39,Assign8,Task1.py,0
 485,Student39,Assign9,blobber.py,0
-486,Student39,Assign9,Blobber.py,1
+486,Student39,Assign9,Blobber.py,0
 487,Student39,Assign9,task1.py,0
 488,Student39,Assign9,Task1.py,0
 489,Student39,Assign9,task2.py,0
-490,Student39,Assign9,Task2.py,1
+490,Student39,Assign9,Task2.py,0
 491,Student4,Assign6,task1.py,0
 492,Student4,Assign6,task2.py,1
 493,Student40,Assign10,task1.py,0
@@ -502,7 +502,7 @@
 500,Student40,Assign6,task2.py,0
 501,Student40,Assign7,chessboard.py,1
 502,Student40,Assign7,task1.py,0
-503,Student40,Assign7,task2.py,1
+503,Student40,Assign7,task2.py,0
 504,Student40,Assign8,pattern.py,0
 505,Student40,Assign8,task1.py,1
 506,Student40,Assign9,blobber.py,0
@@ -536,7 +536,7 @@
 534,Student43,Assign12,realtask1.py,0
 535,Student43,Assign12,task1.py,0
 536,Student43,Assign12,task2.py,0
-537,Student43,Assign12,task3.py,1
+537,Student43,Assign12,task3.py,0
 538,Student43,Assign13,memory_test.py,0
 539,Student43,Assign13,task1.py,0
 540,Student43,Assign13,task2.py,0
@@ -568,7 +568,7 @@
 566,Student5,Assign13,task1.py,0
 567,Student5,Assign13,task2.py,0
 568,Student6,Assign10,crap.py,0
-569,Student6,Assign10,task1.py,1
+569,Student6,Assign10,task1.py,0
 570,Student6,Assign10,wordinator.py,1
 571,Student6,Assign11,main.py,0
 572,Student6,Assign11,orbian.py,0
@@ -579,18 +579,18 @@
 577,Student6,Assign12,main.py,0
 578,Student6,Assign12,Task1.py,0
 579,Student6,Assign12,task2.py,0
-580,Student6,Assign12,task3.py,1
+580,Student6,Assign12,task3.py,0
 581,Student6,Assign13,main.py,0
-582,Student6,Assign13,memoryboard.py,1
+582,Student6,Assign13,memoryboard.py,0
 583,Student6,Assign13,memorytest.py,1
-584,Student6,Assign13,task1.py,1
+584,Student6,Assign13,task1.py,0
 585,Student6,Assign13,task2.py,0
 586,Student6,Assign6,main.py,0
-587,Student6,Assign6,task1.py,3
+587,Student6,Assign6,task1.py,0
 588,Student6,Assign6,task2.py,0
 589,Student6,Assign8,main.py,0
 590,Student6,Assign8,pattern.py,0
-591,Student6,Assign8,starter.py,3
+591,Student6,Assign8,starter.py,0
 592,Student6,Assign8,task1.py,0
 593,Student6,Assign9,blobber.py,0
 594,Student6,Assign9,main.py,0
@@ -645,7 +645,7 @@
 643,Student9,Assign7,task1.py,0
 644,Student9,Assign7,task2.py,1
 645,Student9,Assign8,pattern.py,1
-646,Student9,Assign8,task1.py,1
+646,Student9,Assign8,task1.py,0
 647,Student9,Assign8,test.py,0
 648,Student9,Assign9,blobber.py,0
 649,Student9,Assign9,task1.py,1
