@@ -7,7 +7,7 @@ from timeBetweenRuns import *
 # student, assignment, number of coding sessions
 def getCodingSessionsForAssignment(df, student, assignment):
     '''coding sessions end after more than 5 minutes from last event'''
-    studentAssignmentDf = df[(df.SubjectID == student)&(df.AssignmentID == assignment)]
+    studentAssignmentDf = df[(df.SubjectID == student)&(df.AssignmentID == assignment)].copy()
     # studentAssignmentDf = studentAssignmentDf[SUBJECT_ID_KEY, ASSIGNMENT_ID_KEY, CLIENT_TIMESTAMP_KEY]
     # convert client timestamp to date time
     studentAssignmentDf[DATE_TIME_KEY] = pd.to_datetime(studentAssignmentDf.ClientTimestamp, unit='ms') 
@@ -34,7 +34,7 @@ def getTimeSpentPerSession(df):
     codingSessionDf = pd.DataFrame()
     sessionIds = df[SESSION_ID_KEY].unique()
     for sessionId in sessionIds:
-        sessionDf = df[(df[SESSION_ID_KEY] == sessionId)]
+        sessionDf = df[(df[SESSION_ID_KEY] == sessionId)].copy()
         # sort by dates just in case
         sessionDf.sort_values(by=DATE_TIME_KEY, inplace=True)
         # subtract start session time and end session time to get total session time

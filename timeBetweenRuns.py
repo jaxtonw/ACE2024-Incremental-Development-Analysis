@@ -29,7 +29,7 @@ def getFilteredRunEvents(df):
 
 def getTimeBetweenRuns(df, student, assignment):
     '''Get time between runs for a student and assignment'''
-    studentRunsDf = df[(df.SubjectID == student)&(df.AssignmentID == assignment)]
+    studentRunsDf = df[(df.SubjectID == student)&(df.AssignmentID == assignment)].copy()
     studentRunsDf.sort_values(by=DATE_TIME_KEY, inplace=True)
     studentRunsDf[NEXT_DATE_TIME_KEY] = studentRunsDf[DATE_TIME_KEY].shift(-1)
     studentRunsDf[DIFF_KEY] = studentRunsDf[NEXT_DATE_TIME_KEY] - studentRunsDf[DATE_TIME_KEY]
