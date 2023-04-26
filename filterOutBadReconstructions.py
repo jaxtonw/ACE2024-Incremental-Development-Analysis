@@ -85,3 +85,25 @@ def mergeKeystrokesWithProjectReconstructions(keystroke_df):
         on=['SubjectID', 'AssignmentID'],
         how='left'
         ).reset_index()
+
+def getKeystrokesDFWithoutBadFileReconstructions(keystroke_df):
+    '''
+    Return a keystrokes dataframe without data for files that were unable to reconstruct correctly
+
+    NOTE: The returned dataframe does NOT have the extra 'ReconstructionFailure' column
+    '''
+
+    df = mergeKeystrokesWithFileReconstructions(keystroke_df)
+
+    return df[df.ReconstructionFailure != 1].drop(columns=['ReconstructionFailure'])
+
+def getKeystrokesDFWithoutBadProjectReconstructions(keystroke_df):
+    '''
+    Return a keystrokes dataframe without data for projects that were unable to reconstruct correctly
+
+    NOTE: The returned dataframe does NOT have the extra 'ReconstructionFailure' column
+    '''
+
+    df = mergeKeystrokesWithProjectReconstructions(keystroke_df)
+
+    return df[df.ReconstructionFailure != 1].drop(columns=['ReconstructionFailure'])
