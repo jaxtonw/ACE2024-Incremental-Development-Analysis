@@ -14,5 +14,18 @@ HOURS_DIFF_KEY = 'HoursDiff'
 MINUTES_DIFF_KEY = 'MinutesDiff'
 SECONDS_DIFF_KEY = 'SecondsDiff'
 SESSION_ID_KEY = 'SessionID'
-SESSION_TIME_KEY = 'SessionTimeMs'
-TOTAL_ASSIGNMENT_TIME_KEY = 'TotalAssignmentTimeMs'
+SESSION_TIME_KEY = 'SessionTotalTime' #Swapped from Ms -> S
+TOTAL_ASSIGNMENT_TIME_KEY = 'TotalAssignmentTime'#Swapped from Ms -> S
+
+
+EVENT_TIME_DIFF_KEY = 'EventTimeDiffSeconds' # This is done in seconds
+SESSION_START_TIME_KEY = 'SessionStartTime'
+SESSION_END_TIME_KEY = 'SessionEndTime'
+SESSION_KEYSTROKES_KEY = 'SessionNumberKeyStrokes'
+SESSION_AVG_KEYDIFF_TIME_KEY = 'SessionAvgKeyDiffTime'
+
+SESSION_COUNT_KEY = 'SessionCount'
+FIRST_SESSION_START_KEY = 'FirstSessionStart'
+LAST_SESSION_END_KEY = 'LastSessionEnd'
+NUMBER_KEYSTROKES_KEY = 'NumberKeystrokes'
+AVG_KEYDIFF_TIME_KEY = 'AvgKeyDiffTime'
