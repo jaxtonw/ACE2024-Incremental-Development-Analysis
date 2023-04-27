@@ -86,7 +86,6 @@ def get_mid_score_all(final_data, student_df):
         for file_name in file_states:
             # Filtering out 'bad' filenames
             if not file_name.endswith('.py') or '.txt' in file_name.lower() or 'plan' in file_name.lower() or 'main' in file_name.lower():
-                print(f"filtering out file {file_name}")
                 continue
             new_file_states[file_name] = file_states[file_name]
         file_states = new_file_states
