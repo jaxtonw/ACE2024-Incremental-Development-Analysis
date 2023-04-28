@@ -14,11 +14,11 @@ def markEventsByCodingSessions(df, student, assignment):
     assnSessionDf = df[
         (df.SubjectID == student) & (df.AssignmentID == assignment)
         & (
-        # We do not want any X-Attention events or Editor Close Actions
+        # We do not want any X-Attention or X-Keystroke events, or Editor Close Actions
           ~ (
               ( df.EventType == 'X-Attention' )
-            | ( ( df.EventType == 'X-Action' ) & (df['X-Metadata'] == 'Close Active Editor')
-            )
+            | ( df.EventType == 'X-Keystroke' ) # X-Keystrokes are essentially duplicates of edits with some fickle-behaviors
+            | ( ( df.EventType == 'X-Action' ) & (df['X-Metadata'] == 'Close Active Editor') )
           )
         )
         ].copy()
@@ -26,27 +26,44 @@ def markEventsByCodingSessions(df, student, assignment):
     assnSessionDf[DATE_TIME_KEY] = pd.to_datetime(assnSessionDf.ClientTimestamp, unit='ms') 
     assnSessionDf[SESSION_ID_KEY] = -1
     assnSessionDf[EVENT_TIME_DIFF_KEY] = np.NaN
+    assnSessionDf[INSESSION_RUNTIME_DIFF_KEY] = np.NaN
+    assnSessionDf[INSESSION_HAS_RAN_CODE_KEY] = 0
 
     # sort by timestamp
     assnSessionDf.sort_values(by=DATE_TIME_KEY, inplace=True)
 
     if assnSessionDf.size > 0:
         lastEventTime = assnSessionDf.head(1)[DATE_TIME_KEY].values[0]
+        lastRunTime = lastEventTime
+
     # 5 minutes from last event, not start of the session
     sessionId = 0
+    hasRanCodeInSession = 0
+
     for i, row in assnSessionDf.iterrows():
         diff = row[DATE_TIME_KEY] - lastEventTime
         minutes_diff = diff.total_seconds() / 60
 
         if minutes_diff > 5:
             sessionId += 1
+            lastRunTime = row[DATE_TIME_KEY]
+            hasRanCodeInSession = 0
             # assnSessionDf.at[i, EVENT_TIME_DIFF_KEY] = np.NaN
         else:
             # If this event is still part of the same coding session, we note the diff time
             # If it's not, leave it as NaN
             assnSessionDf.at[i, EVENT_TIME_DIFF_KEY] = diff.total_seconds()
 
+        assnSessionDf.at[i, INSESSION_RUNTIME_DIFF_KEY] = (row[DATE_TIME_KEY] - lastRunTime).total_seconds()
+        assnSessionDf.at[i, INSESSION_HAS_RAN_CODE_KEY] = hasRanCodeInSession
+        if row.EventType == 'Run.Program' and row['X-Metadata'] == 'Start':
+            hasRanCodeInSession = 1
+            # Compute time since last run in this session
+            lastRunTime = row[DATE_TIME_KEY]
+
         assnSessionDf.at[i,SESSION_ID_KEY] = sessionId
+
+
         lastEventTime = row[DATE_TIME_KEY]
 
     return assnSessionDf
@@ -77,7 +94,11 @@ def getIndividualSessionInfo(df):
     sessionEndTimes = []
     sessionLengths = []
     sessionNumEvents = []
-    sessionAvgKeyDiffTime = []
+    sessionAvgEventDiffTime = []
+    sessionNumEventsBeforeRun = []
+    sessionNumEventsAfterRun = []
+    sessionNumRuns = []
+    sessionAvgTimeBetweenRuns = []
 
     for sessionId in allSessionIds:
         # Reduce df down to just this session
@@ -90,7 +111,17 @@ def getIndividualSessionInfo(df):
         # subtract start session time and end session time to get total session time
         lengthTime = endTime - startTime
 
-        avgKeyDiffTime = sessionDf[EVENT_TIME_DIFF_KEY].mean()
+
+        # Get Only Run Events
+        runEvents = sessionDf[(sessionDf.EventType == 'Run.Program') & (sessionDf['X-Metadata'] == 'Start')]
+        avgTimeBetweenRuns = runEvents[INSESSION_RUNTIME_DIFF_KEY].mean()
+
+        avgEventDiffTime = sessionDf[EVENT_TIME_DIFF_KEY].mean()
+
+        eventsBeforeRun = sessionDf[sessionDf[INSESSION_HAS_RAN_CODE_KEY] == 0]
+        eventsAfterRun = sessionDf[sessionDf[INSESSION_HAS_RAN_CODE_KEY] == 1]
+
+
 
         # Add all data for this session to a list
         sessionIdsColumn.append(sessionId)
@@ -98,7 +129,11 @@ def getIndividualSessionInfo(df):
         sessionEndTimes.append(endTime)
         sessionLengths.append(lengthTime)
         sessionNumEvents.append(len(sessionDf))
-        sessionAvgKeyDiffTime.append(avgKeyDiffTime)
+        sessionNumEventsBeforeRun.append(len(eventsBeforeRun))
+        sessionNumEventsAfterRun.append(len(eventsAfterRun))
+        sessionAvgEventDiffTime.append(avgEventDiffTime)
+        sessionNumRuns.append(len(runEvents))
+        sessionAvgTimeBetweenRuns.append(avgTimeBetweenRuns)
 
     return pd.DataFrame(
         {
@@ -108,10 +143,58 @@ def getIndividualSessionInfo(df):
             SESSION_START_TIME_KEY: sessionStartTimes,
             SESSION_END_TIME_KEY: sessionEndTimes,
             SESSION_TIME_KEY: sessionLengths,
-            SESSION_KEYSTROKES_KEY: sessionNumEvents,
-            SESSION_AVG_KEYDIFF_TIME_KEY: sessionAvgKeyDiffTime
+            NUMBER_EVENTS_KEY: sessionNumEvents,
+            NUMBER_EVENTS_BEFORE_RUN_KEY: sessionNumEventsBeforeRun,
+            NUMBER_EVENTS_AFTER_RUN_KEY: sessionNumEventsAfterRun,
+            AVG_EVENTDIFF_TIME_KEY: sessionAvgEventDiffTime,
+            NUMBER_RUNS_KEY: sessionNumRuns,
+            AVG_TIME_BETWEEN_RUNS_KEY: sessionAvgTimeBetweenRuns,
         }
     )
+
+
+def condenseCodingSessions(session_info_df, allCodingSessionsDf):
+    '''
+    Convert a dataframe containing individual session info into a dataframe containing info for all sessions on an assignment
+    '''
+
+    allCodingSessionsDf[SUBJECT_ID_KEY].append(
+        session_info_df[SUBJECT_ID_KEY].head(1).values[0]
+    )
+    allCodingSessionsDf[ASSIGNMENT_ID_KEY].append(
+        session_info_df[ASSIGNMENT_ID_KEY].head(1).values[0]
+    )
+    allCodingSessionsDf[SESSION_COUNT_KEY].append(
+        session_info_df[SESSION_ID_KEY].count()
+    )
+    allCodingSessionsDf[TOTAL_ASSIGNMENT_TIME_KEY].append(
+        session_info_df[SESSION_TIME_KEY].sum()
+    )
+    allCodingSessionsDf[NUMBER_EVENTS_KEY].append(
+        session_info_df[NUMBER_EVENTS_KEY].sum()
+    )
+    allCodingSessionsDf[NUMBER_EVENTS_BEFORE_RUN_IN_SESSION_KEY].append(
+        session_info_df[NUMBER_EVENTS_BEFORE_RUN_KEY].sum()
+    )
+    allCodingSessionsDf[NUMBER_EVENTS_AFTER_RUN_IN_SESSION_KEY].append(
+        session_info_df[NUMBER_EVENTS_AFTER_RUN_KEY].sum()
+    )
+    allCodingSessionsDf[NUMBER_RUNS_KEY].append(
+        session_info_df[NUMBER_RUNS_KEY].sum()
+    )
+    allCodingSessionsDf[FIRST_SESSION_START_KEY].append( 
+        session_info_df.head(1)[SESSION_START_TIME_KEY].values[0]
+    )
+    allCodingSessionsDf[LAST_SESSION_END_KEY].append(
+        session_info_df.tail(1)[SESSION_END_TIME_KEY].values[0]
+    )
+    allCodingSessionsDf[AVG_EVENTDIFF_TIME_KEY].append(
+        session_info_df[AVG_EVENTDIFF_TIME_KEY].mean()
+    )
+    allCodingSessionsDf[AVG_TIME_BETWEEN_RUNS_KEY].append(
+        session_info_df[AVG_TIME_BETWEEN_RUNS_KEY].mean()
+    )
+
 
 def getCodingSessionsDf(keystroke_df, final_data):
     '''
@@ -120,7 +203,24 @@ def getCodingSessionsDf(keystroke_df, final_data):
     Returns a dataframe containing an entry for each unique coding session
     '''
 
-    codingSessionDf = pd.DataFrame()
+    individualCodingSessionDf = pd.DataFrame()
+    allCodingSessionsDf = {
+        SUBJECT_ID_KEY: [],
+        ASSIGNMENT_ID_KEY: [],
+        SESSION_COUNT_KEY : [],
+        TOTAL_ASSIGNMENT_TIME_KEY: [],
+        NUMBER_EVENTS_KEY: [],
+        NUMBER_EVENTS_BEFORE_RUN_IN_SESSION_KEY: [],
+        NUMBER_EVENTS_AFTER_RUN_IN_SESSION_KEY: [],
+        NUMBER_RUNS_KEY: [],
+        FIRST_SESSION_START_KEY: [],
+        LAST_SESSION_END_KEY: [],
+        AVG_EVENTDIFF_TIME_KEY: [],
+        AVG_TIME_BETWEEN_RUNS_KEY: [],
+    }
+
+
+
     for student, assignment, _ in final_data:
 
         # Get a dataframe with keystroke info for this (student,assignment), marked by coding sessions
@@ -132,31 +232,8 @@ def getCodingSessionsDf(keystroke_df, final_data):
         if oneCodingSessionInfoDf is None:
             continue
 
-        codingSessionDf = pd.concat([codingSessionDf, oneCodingSessionInfoDf], ignore_index=True)
 
-    return codingSessionDf
+        individualCodingSessionDf = pd.concat([individualCodingSessionDf, oneCodingSessionInfoDf], ignore_index=True)
+        condenseCodingSessions(oneCodingSessionInfoDf, allCodingSessionsDf)
 
-
-def sessionInfoToAssignmentInfo(session_info_df):
-    '''
-    Convert a dataframe containing individual session info into a dataframe containing info for all sessions on an assignment
-    '''
-
-    return session_info_df.groupby(
-        by=[SUBJECT_ID_KEY, ASSIGNMENT_ID_KEY]
-        ).agg({
-            SESSION_ID_KEY: 'count',
-            SESSION_TIME_KEY: 'sum',
-            SESSION_START_TIME_KEY: 'first',
-            SESSION_END_TIME_KEY: 'last',
-            SESSION_KEYSTROKES_KEY: 'sum',
-            SESSION_AVG_KEYDIFF_TIME_KEY: 'mean',
-        }).rename(
-            columns={
-                SESSION_ID_KEY: SESSION_COUNT_KEY,
-                SESSION_START_TIME_KEY: FIRST_SESSION_START_KEY,
-                SESSION_END_TIME_KEY: LAST_SESSION_END_KEY,
-                SESSION_TIME_KEY: TOTAL_ASSIGNMENT_TIME_KEY,
-                SESSION_KEYSTROKES_KEY: NUMBER_KEYSTROKES_KEY,
-                SESSION_AVG_KEYDIFF_TIME_KEY: AVG_KEYDIFF_TIME_KEY
-            }).reset_index()
+    return individualCodingSessionDf, pd.DataFrame(allCodingSessionsDf)
