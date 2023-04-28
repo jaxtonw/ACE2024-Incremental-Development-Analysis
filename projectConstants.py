@@ -21,11 +21,21 @@ TOTAL_ASSIGNMENT_TIME_KEY = 'TotalAssignmentTime'#Swapped from Ms -> S
 EVENT_TIME_DIFF_KEY = 'EventTimeDiffSeconds' # This is done in seconds
 SESSION_START_TIME_KEY = 'SessionStartTime'
 SESSION_END_TIME_KEY = 'SessionEndTime'
-SESSION_KEYSTROKES_KEY = 'SessionNumberKeyStrokes'
-SESSION_AVG_KEYDIFF_TIME_KEY = 'SessionAvgKeyDiffTime'
+SESSION_KEYSTROKES_KEY = 'SessionNumberEvents'
+SESSION_AVG_KEYDIFF_TIME_KEY = 'SessionAvgEventDiffTime'
 
 SESSION_COUNT_KEY = 'SessionCount'
 FIRST_SESSION_START_KEY = 'FirstSessionStart'
 LAST_SESSION_END_KEY = 'LastSessionEnd'
-NUMBER_KEYSTROKES_KEY = 'NumberKeystrokes'
-AVG_KEYDIFF_TIME_KEY = 'AvgKeyDiffTime'
+NUMBER_EVENTS_KEY = 'NumberEvents'
+NUMBER_EVENTS_BEFORE_RUN_KEY = 'NumberEventsBeforeRun'
+NUMBER_EVENTS_BEFORE_RUN_IN_SESSION_KEY = NUMBER_EVENTS_BEFORE_RUN_KEY + 'InSession'
+NUMBER_EVENTS_AFTER_RUN_KEY = 'NumberEventsAfterRun'
+NUMBER_EVENTS_AFTER_RUN_IN_SESSION_KEY = NUMBER_EVENTS_AFTER_RUN_KEY + 'InSession'
+
+AVG_EVENTDIFF_TIME_KEY = 'AvgEventDiffTime'
+AVG_TIME_BETWEEN_RUNS_KEY = 'AvgTimeBetweenRuns'
+NUMBER_RUNS_KEY = 'NumRuns'
+
+INSESSION_RUNTIME_DIFF_KEY = 'TimeSinceLastRunInSession'
+INSESSION_HAS_RAN_CODE_KEY = 'HasRanCodeInSession'
