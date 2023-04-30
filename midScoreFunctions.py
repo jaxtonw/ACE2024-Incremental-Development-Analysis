@@ -93,9 +93,15 @@ def get_mid_score_all(final_data, student_df):
         if len(file_states) == 0:
             continue
         all_file_states = []
-        for _, state in file_states.items():
-            clean_state = remove_empty_at_start(state)
-            all_file_states += clean_state
+        
+        firstFileName = list(file_states.keys())[0]
+        numStates = len(file_states[firstFileName])
+
+        for i in range(numStates):
+            all_file_states.append('')
+            for _, state in file_states.items():
+
+                all_file_states[i] = all_file_states[i] + state[i]
         try:
             mid_score = calculate_mid(all_file_states)
             row = pd.DataFrame(get_mid_score_row(student, assignment, mid_score, student_df), index=[0])
